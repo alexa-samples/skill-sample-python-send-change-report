@@ -1,7 +1,7 @@
 ## Instructions
 This project contains three files with sample code to help you send a change report to the Alexa Event Gateway. The first section below lists the steps that must take place to send a successful change report event. The remaining sections map to these steps and explain how to use the sample code.
 
-This project assumes you have a working Smart Home skill and does not teach you how to implement every step. If you don't have a Smart Home skill, follow the [Steps to Build a Smart Home Skill](https://developer.amazon.com/en-US/docs/alexa/smarthome/steps-to-build-a-smart-home-skill.html) documentation or this [Smart Home Fireplace](https://github.com/alexa-samples/skill-sample-smarthome-fireplace-python) tutorial on GitHub.
+This project assumes you have a working Smart Home skill and does not teach you how to implement every step. If you don't have a Smart Home skill, follow the [Build a Smart Home Skill](https://developer.amazon.com/en-US/docs/alexa/smarthome/smart-home-skill-tutorial.html) tutorial or this [Smart Home Fireplace](https://github.com/alexa-samples/skill-sample-smarthome-fireplace-python) tutorial on GitHub.
 
 ## Steps for sending a change report to the Alexa Event Gateway
 1. The skill developer [enables permissions](https://developer.amazon.com/en-US/docs/alexa/smarthome/authenticate-a-customer-permissions.html#enable-alexa-event-permissions) for their skill to send Alexa events (e.g. change report) to the Alexa Event Gateway. **Client Id** and **Client Secret** are obtained.
