@@ -21,6 +21,7 @@ When you're ready to look at the code, go to the [instructions](src/instructions
 
 * [State and Change Reporting](https://developer.amazon.com/en-US/docs/alexa/smarthome/state-reporting-for-a-smart-home-skill.html)
 * [Send Events to the Alexa Event Gateway](https://developer.amazon.com/en-US/docs/alexa/smarthome/send-events-to-the-alexa-event-gateway.html)
+* [View Device State to Test and Debug your Smart Home Skill](https://developer.amazon.com/en-US/docs/alexa/smarthome/test-state.html)
 
 ## Security
 
